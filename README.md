@@ -17,7 +17,11 @@ npm run build
 
 ### About this app:
 ```
-I made this app with a goal to practice and improve my skills in VUE.js and then add it to my portfolio. I called it "Cryptowatcher". It allows you to watch for changes in the price of cryptocurrencies in real-time. Just pick a coin and you will see price dynamics of this coin on the live chart. The live prices (provided by Cryptocompare.com) are being received via WebSockets. The UI visualisation of prices is made with the help of ApexCharts.
+I made this app with a goal to practice and improve my skills in VUE.js and then add it to my portfolio. 
+I called it "Cryptowatcher". It allows you to watch for changes in the price of cryptocurrencies in real-time. 
+Just pick a coin and you will see price dynamics of this coin on the live chart. 
+The live prices (provided by Cryptocompare.com) are being received via WebSockets. 
+The UI visualisation of prices is made with the help of ApexCharts.
 ```
 
 ### Key features:
