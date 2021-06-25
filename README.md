@@ -1,6 +1,6 @@
 # Cryptowatcher
 
-## DEMO link
+## DEMO:
 ```
 https://cryptowatcher-77154.web.app/
 ```
