@@ -1,5 +1,10 @@
 # Cryptowatcher
 
+## DEMO link
+```
+https://cryptowatcher-77154.web.app/
+```
+
 ## Project setup
 ```
 npm install
