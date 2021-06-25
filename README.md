@@ -26,8 +26,8 @@ The UI visualisation of prices is made with the help of ApexCharts.
 
 ### Key features:
 ```
-- All your favorite coins are stored in LocalStorage, so there is no need to pick them again next time.
-- You can easily filter your coins using the "filter" field
-- All your coins are updating in real time. That means that all coins that are not selected are still updating behind the scenes. By selecting them, you will see all the changes on the chart.
+- All your favorite coins are stored in LocalStorage, so there is no need to pick them again next time;
+- You can easily filter your coins using the "filter" field;
+- All your coins are updating in real time. That means that all coins that are not selected are still updating behind the scenes. By selecting them, you will see all the changes on the chart;
 - All prices stored in VUEX store.
 ```
