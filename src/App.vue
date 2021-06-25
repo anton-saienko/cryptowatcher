@@ -15,7 +15,7 @@
       - You can easily filter your coins using the "filter" field<br>
       - All your coins are updating in real time. That means that all coins that are not selected are still updating behind the scenes. By selecting them, you will see all the changes on the chart.<br>
       - All prices stored in VUEX store.<br>
-      - The source code can be viewed here - <a href="google.com" class="link">Google</a>
+      - The source code can be viewed <a href="https://github.com/code-mode/cryptowatcher" class="link" target="_blank">HERE(github)</a>
     </div>
     <div class="divider"></div>
   </div>
