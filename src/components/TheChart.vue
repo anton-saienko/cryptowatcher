@@ -57,7 +57,7 @@ export default {
             formatter: function (value) {
               var time = value;
               var date = new Date(time);
-              return date.toLocaleTimeString('it-IT');
+              return date.toLocaleTimeString('en-US');
             } 
           }
         },
@@ -67,7 +67,7 @@ export default {
             formatter: function(value) {
               var time = value;
               var date = new Date(time);
-              return date.toLocaleString('it-IT');
+              return date.toLocaleString('en-US');
             }
           }
         },
